@@ -1,4 +1,4 @@
-package com.lifeware.zktest;
+package com.lifeware.study.zktest;
 
 import java.io.IOException;
 import java.net.InetAddress;

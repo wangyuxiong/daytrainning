@@ -1,4 +1,4 @@
-package com.lifeware.study.daytrainning;
+package com.lifeware.study.daytrainning.filesystem;
 
 import java.io.BufferedReader;
 import java.io.File;

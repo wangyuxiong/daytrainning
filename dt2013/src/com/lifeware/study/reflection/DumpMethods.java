@@ -12,9 +12,7 @@ public class DumpMethods {
 				System.out.println(method);
 			}
 		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
 	}
 }
